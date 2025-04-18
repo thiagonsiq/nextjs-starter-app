@@ -1,12 +1,16 @@
-## Sample Next.js Application
+## Next.js Starter Application
+
+This is the starter or training application from Next.js - https://nextjs.org/learn/dashboard-app
 
 # Tech Stack
 
-- Next.js / TypeScript
-- Authentication: NextAuth.js 
-- Vercel: CI/CD Deployments
-- Storage: Neon Serverless Postgres (through Vercel)
-- Package Manager: pnpm
+- Framework - [Next.js (App Router)](https://nextjs.org/)
+- Language - [Typescript](https://www.typescriptlang.org/)
+- Auth - [Auth.js](https://authjs.dev/)
+- Deployment - [Vercel](https://vercel.com/docs/concepts/next.js/overview)
+- Storage - [Postgres](https://vercel.com/postgres)
+- Styling - [Tailwind CSS](https://tailwindcss.com/)
+- Package Manager: [pnpm](https://pnpm.io/)
 
 # Running the Application
 
@@ -14,7 +18,6 @@
 
 - Run `pnpm i` to install the project's dependencies
 - Followed by `pnpm dev` to start the development server
-
 
 # Project Structure
 
