@@ -1,11 +1,4 @@
-## Thiago's Development Playground
-
-This is my website.
-
-My goal is to use it in various ways. I'd like to: 
-1. Display my professional experience, a web version of my resume so to speak
-2. A technical playground of sorts, where I try new technology, frameworks, into a production environment for fun
-3. Lastly, as a place to post about things I enjoy, like hobbies, trips, family, and maybe more
+## Sample Next.js Application
 
 # Tech Stack
 

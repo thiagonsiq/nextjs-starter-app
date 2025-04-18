@@ -4,10 +4,10 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | Thiago Siqueira',
-    default: 'Thiago Siqueira',
+    template: '%s | Sample App',
+    default: 'Sample app',
   },
-  description: 'A place to showcase my experience, my hobbies, and things I enjoy doing!',
+  description: 'A place to showcase a sample Next.js app',
   metadataBase: new URL('https://next-learn-dashboard.vercel.sh'),
 };
 
