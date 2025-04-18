@@ -4,11 +4,13 @@ This is the starter or training application from Next.js - https://nextjs.org/le
 
 # Tech Stack
 
-- FE/BE: Next.js / React
-- Authentication: NextAuth.js, Auth.js
-- CI/CD: Vercel
-- Storage: Neon Serverless Postgres (Vercel)
-- Package Manager: pnpm
+- Framework - [Next.js (App Router)](https://nextjs.org/)
+- Language - [Typescript](https://www.typescriptlang.org/)
+- Auth - [Auth.js](https://authjs.dev/)
+- Deployment - [Vercel](https://vercel.com/docs/concepts/next.js/overview)
+- Storage - [Postgres](https://vercel.com/postgres)
+- Styling - [Tailwind CSS](https://tailwindcss.com/)
+- Package Manager: [pnpm](https://pnpm.io/)
 
 # Running the Application
 
